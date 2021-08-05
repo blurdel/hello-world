@@ -1,4 +1,4 @@
 # hello-world
 Git Hello World Project
 
-This is on some other branch, not main
+The Hello World project is a time-honored tradition in computer programming.
